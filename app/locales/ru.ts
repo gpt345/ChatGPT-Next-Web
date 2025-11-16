@@ -158,7 +158,7 @@ const ru: PartialLocaleType = {
   },
   Store: {
     DefaultTopic: "Новый разговор",
-    BotHello: "❗Доменное имя изменится на free.oaibest.com, пожалуйста, обновите закладку. Попробуйте <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>, чтобы получить доступ к более чем 340 моделям, включая OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney и загрузку файлов. Доступные цены, поддержка платежей через Stripe и USDT!",
+    BotHello: `❗Доменное имя изменится на free.oaibest.com, пожалуйста, обновите закладку. Попробуйте <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>, чтобы получить доступ к более чем 340 моделям, включая OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney и загрузку файлов. Доступные цены, поддержка платежей через Stripe и USDT!`,
     Error: "Что-то пошло не так. Пожалуйста, попробуйте еще раз позже.",
     Prompt: {
       History: (content: string) =>
