@@ -5,7 +5,7 @@ const ru: PartialLocaleType = {
   WIP: "Скоро...",
   Error: {
     Unauthorized:
-      "❗Доменное имя изменится на free.oaibest.com, пожалуйста, обновите закладку. Попробуйте <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>, чтобы получить доступ к более чем 340 моделям, включая OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney и загрузку файлов. Доступные цены, поддержка платежей через Stripe и USDT!",
+      `❗Доменное имя изменится на free.oaibest.com, пожалуйста, обновите закладку. Попробуйте <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>, чтобы получить доступ к более чем 340 моделям, включая OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney и загрузку файлов. Доступные цены, поддержка платежей через Stripe и USDT!`,
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} сообщений`,
