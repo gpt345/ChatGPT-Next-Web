@@ -383,7 +383,7 @@ const en: LocaleType = {
   },
   Store: {
     DefaultTopic: "New Conversation",
-    BotHello: "This site is free to use. Try&nbsp;<a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>&nbsp;to access 340+ model including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Strip and USDT payment!",
+    BotHello: `This site is free to use. Try <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a> to access 540+ models including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Stripe and USDT payment!`,
     Error: "Something went wrong, please try again later.",
     Prompt: {
       History: (content: string) =>
