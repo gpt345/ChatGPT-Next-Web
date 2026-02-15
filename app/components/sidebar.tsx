@@ -166,7 +166,7 @@ export function SideBar(props: { className?: string }) {
           Status Page
         </a></b>
           <br /><br />
-          1️⃣Domain is change to free.oaibest.com please update bookmark<br />2️⃣If answer error, please ask again or switch to other model<br />3️⃣<span style={{ color: 'red' }}><b>Try&nbsp;<a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>&nbsp;to access 340+ model including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Strip and USDT payment!
+          1️⃣Domain is change to free.oaibest.com please update bookmark<br />2️⃣If answer error, please ask again or switch to other model<br />3️⃣<span style={{ color: 'red' }}><b>Try <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a>;to access 450+ model including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Strip and USDT payment!
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
