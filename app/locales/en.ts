@@ -10,7 +10,7 @@ const en: LocaleType = {
   Error: {
     Unauthorized: isApp
       ? "Invalid API Key, please check it in [Settings](/#/settings) page."
-      : "This site is free to use. Try <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a> to access 450+ model including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Strip and USDT payment!",
+      : `This site is free to use. Try <a href="https://api.oaibest.com" target="_blank">api.oaibest.com</a> to access 450+ models including OpenAI, Claude, Gemini, Deepseek, Grok, Midjourney and file upload. Cheap rate, support Stripe and USDT payment!`,
   },
   Auth: {
     Title: "Need Access Code",
